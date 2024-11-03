@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.16.0",
+    "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
+    "html-react-parser": "^5.1.10",
+    "react-alice-carousel": "^2.9.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-html-parser": "^2.0.2",
+    "react-native-elements": "^3.4.3",
+    "react-native-vector-icons": "^10.1.0",
+    "react-router-dom": "^6.24.1"
+  }
+}
